@@ -1,0 +1,6 @@
+C:\Projects\BalancedBrackets\bin\Debug\BalancedBrackets.dll
+C:\Projects\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+C:\Projects\BalancedBrackets\obj\Debug\BalancedBrackets.csprojAssemblyReference.cache
+C:\Projects\BalancedBrackets\obj\Debug\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Projects\BalancedBrackets\obj\Debug\BalancedBrackets.dll
+C:\Projects\BalancedBrackets\obj\Debug\BalancedBrackets.pdb
